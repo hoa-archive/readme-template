@@ -91,7 +91,7 @@ Use this section to show how the project can be used with demo videos or gifs, `
 List of things user needs to have and how to install them before setting up the project.
 * example: npm
     ```
-		npm install
+    npm install
     ```
     
 Specific step-by-step instructions for interested parties on how to install and set up your project in their local environment.
@@ -208,5 +208,3 @@ Mention what you changed/added/improved
 * improved ui of [link here]
 
 <p align="right">(<a href="#top-of-page">Back to Top</a>)</p>
-
-<hr>
