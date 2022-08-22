@@ -34,7 +34,7 @@ Thank to these resources for icons and badges inspiration:
 -	https://github.com/martinpeck/oss-project-status
 -	https://rahuldkjain.github.io/gh-profile-readme-generator/
 -	https://www.repostatus.org/#inactive
-    o	https://github.com/jantman/repostatus.org
+    -	https://github.com/jantman/repostatus.org
 
 Thanks to these resources for README inspiration:
 -	https://stackedit.io/
