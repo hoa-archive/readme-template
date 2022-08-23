@@ -47,4 +47,7 @@ Thanks to these resources for README inspiration:
 -	https://blog.masaischool.com/how-to-create-an-effective-github-project-readme-2/
 -	https://shannoncrabill.com/blog/improve-your-project-readme/
 
+Others:
+- https://choosealicense.com/licenses/mit/
+
 <p align="right">(<a href="#top-of-page">Back to Top</a>)</p>
