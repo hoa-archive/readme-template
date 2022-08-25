@@ -1,11 +1,11 @@
 <!--- Title Section --->
 
 <a name="top-of-page"></a>
-<br />
+
 <div align="center">
 	<h2>Time/Name of Project</h2>
-	<p>A short description of what your project is and what it aims to do.</p>
-	<a href="/">Live Link to Demo of Project</a>
+	<p>A short description of what the project is and what it aims to do.</p>
+	<a href="/">Link to the hosted Project</a>
 </div>
 
 
@@ -14,74 +14,94 @@
 <br />
 <details>
 	<summary>Table of Contents</summary>
-	<ol>
+	<ul>
 		<li>
-			<a href="#about-the-project">About The Project</a>
+			<a href="#about">About</a>
 			<ul>
+				<li><a href="#features">Features</a></li>
 				<li><a href="#built-with">Built With</a></li>
 			</ul>
 		</li>
+		<li><a href="#usage">Usage</a></li>
 		<li>
-			<a href="#getting-started">Getting Started</a>
+			<a href="#installation-and-setup">Installation and Setup</a>
 			<ul>
 				<li><a href="#prerequisites">Prerequisites</a></li>
-				<li><a href="#installation">Installation</a></li>
+				<li><a href="#install">Install</a></li>
+				<li><a href="#tests">Tests</a></li>
 			</ul>
 		</li>
-		<li><a href="#usage">Usage</a></li>
-		<li><a href="#roadmap">Roadmap</a></li>
-		<li><a href="#contributing">Contributing</a></li>
+		<li>
+			<a href="#status">Status</a>
+			<ul>
+				<li><a href="#roadmap">Roadmap</a></li>
+				<li><a href="#known-issues">Known Issues</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="#contributing">Contributing</a>
+			<ul>
+				<li><a href="#report-bugs-or-request-features">Report Bugs or Request Features</a></li>
+				<li><a href="#development">Development</a></li>
+			</ul>
+		</li>
+		<li><a href="#reflection">Reflection</a></li>
 		<li><a href="#license">License</a></li>
 		<li><a href="#contact">Contact</a></li>
-		<li><a href="#acknowledgments">Acknowledgments</a></li>
-	</ol>
+		<li><a href="#acknowledgements">Acknowledgements</a></li>
+	</ul>
 </details>
 
 
 <!--- About Section --->
 
 ## About
-Talk about the technologies used and why you used them specifically. Discuss your approach: the design patterns or code styles implemented. This section should answer:
-1. How it was built
-2. Why it was built
-3. What problems does it solve
+Talk about the technologies used and why you used those specifically. Discuss your approach: the design patterns or code styles implemented. This section should answer:
+1. How it was built?
+2. Why it was built?
+3. What problems does it solve?
 
-In the sub section below this list what you used to build this project:
+### Features
+Use this section to list the key functionalities of the project:
+* Feature A
+* Feature B
+* Feature C
+
+### Built With
+Use this site to generate icons: [click here](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+Use this site to generate badges: [click here](https://shields.io/)
+
+Use this section to list what was used to build this project:
 - Build tools
 - Languages
 - Dependencies
 - Databases
 - Frameworks
 
-### Features
-Use this section to list the things the project can do:
-* Can do A
-* Can do B
-* Can do C
-
-### Built With
-Use this site to generate icons: [click here](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-Use this site to generate badges: [click here](https://shields.io/)
-
 * Front End
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 
 * Back End
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 
 * Database
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 
 * Other
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 
 
 <!--- Usage Section --->
 
 ## Usage
 Use this section to show how the project can be used with demo videos or gifs, `code examples`, and images:
-![sample-image](https://images.unsplash.com/photo-1565719578701-905114565d1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80 "image example")Provide any necessary credentials (api keys or login info) and steps to navigate key features.
+![sample-image](https://images.unsplash.com/photo-1565719578701-905114565d1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80 "image example")
+
+Provide any necessary credentials (api keys or login info) and steps to navigate key features.
 
 
 <!--- Installation Section --->
@@ -93,7 +113,8 @@ List of things user needs to have and how to install them before setting up the 
     ```
     npm install
     ```
-    
+
+### Install
 Specific step-by-step instructions for interested parties on how to install and set up your project in their local environment.
 
 1. Inform what dependencies and libraries they may need
@@ -208,3 +229,7 @@ Mention what you changed/added/improved
 * improved ui of [link here]
 
 <p align="right">(<a href="#top-of-page">Back to Top</a>)</p>
+
+<hr>
+
+---
