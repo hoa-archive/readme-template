@@ -56,7 +56,7 @@
 <!--- About Section --->
 
 ## About
-Talk about the technologies used and why you used those specifically. Discuss your approach: the design patterns or code styles implemented. This section should answer:
+Use this section to mention the technologies used and why those technologies were used specifically. Discuss the approach to the project, the design patterns, or code styles implemented. This section should answer:
 1. How it was built?
 2. Why it was built?
 3. What problems does it solve?
@@ -98,45 +98,45 @@ Use this section to list what was used to build this project:
 <!--- Usage Section --->
 
 ## Usage
-Use this section to show how the project can be used with demo videos or gifs, `code examples`, and images:
-![sample-image](https://images.unsplash.com/photo-1565719578701-905114565d1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80 "image example")
+Use this section to demonstrate how the project can be used with images, code snippets, or videos:
 
-Provide any necessary credentials (api keys or login info) and steps to navigate key features.
+![sample-image](https://images.unsplash.com/photo-1565719578701-905114565d1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80 "image example")
+
+```
+Exmaple code snippet block
+```
+
+Provide any necessary credentials (api keys or login info) and concise steps to navigate key features.
 
 
 <!--- Installation Section --->
 
 ## Installation and Setup
 ### Prerequisites
-List of things user needs to have and how to install them before setting up the project.
-* example: npm
+Use this section to walk through installing required dependencies and/or packages.
+* npm
     ```
     npm install
     ```
 
 ### Install
-Specific step-by-step instructions for interested parties on how to install and set up your project in their local environment.
+Use this section to provide step-by-step instructions on how to install, set up, and run the project in their local environment.
 
-1. Inform what dependencies and libraries they may need
-2. Include packages or api keys
-3. Provide concise steps with `code commands`
-4. Steps can also be provided within code blocks:
+1. Use of inline code: `git clone https://github.com/author/author-repo`
+2. Use of code blocks:
     ```
-    # Code blocks enclosed with 3 back ticks
-    # Indented once or 4 space tabs
-    
     # Clone this repo
     $ git clone https://github.com/author/author-repo
     ```
     
 ### Tests
-Can include a section with step by step code to run tests.
+Use this section to walk through setting up and running tests.
 
 
 <!--- Status Section --->
 
 ## Status
-State the current project status; whether it completed or in development.
+Use this section to state the current status of the project.
 
 <a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" height="30"/></a>
 
@@ -155,34 +155,30 @@ State the current project status; whether it completed or in development.
 <a href="https://www.repostatus.org/#wip"><img src="https://www.repostatus.org/badges/latest/wip.svg" height="30"/></a>
 
 ### Roadmap
-Provide an overview of planned changes or features to be implemented.
-- [x] Can use checkbox lists
-
-- [x] To show what has been done
-
-- [ ] Add what is yet to be added
-
-- [ ] Or have not been done yet
-
-  - [ ] Double space for subsection
+Use this section to provide an overview of planned changes or features to be implemented.
+- [x] A
+- [x] B
+- [ ] C
+  - [ ] D
+  - [x] E
  
 ### Known Issues
-List of current unresolved problems with the project
-* A does not work
-* B is not added
-* C returns and error
+Use this section to list currently known unresolved problems with the project.
+* Issue A
+* Issue B
+* Issue C
 
 
 <!--- Contribution Section --->
 
 ## Contributing
-This section informs potential contributors how they can help with step by step guide:
+Use this section to inform potential contributors how they can provide their help.
 
 #### Report Bugs or Request Features
 Please use the issue tracker to report bugs or file feature requests.
 
 #### Development
-*  Fork it ([https://github.com/yourname/yourproject/fork](https://github.com/yourname/yourproject/fork))
+*  Fork this repo ([https://github.com/yourname/yourproject/fork](https://github.com/yourname/yourproject/fork))
 *  Create your feature branch (`git checkout -b feature/fooBar`)
 *  Commit your changes (`git commit -am 'Add some fooBar'`)
 *  Push to the branch (`git push origin feature/fooBar`)
@@ -192,8 +188,7 @@ Please use the issue tracker to report bugs or file feature requests.
 <!--- Reflection Section --->
 
 ## Reflection
-This section is to detail any unexpected obstacles you may have encountered during the development of this project. Describe any challenges you may have faced and what you have learned in overcoming them.
-
+Use this section to discuss any unexpected obstacles encountered and how they were resolved. Mention challenges that were overcome and the lessons learned from them.
 
 <!--- License Section --->
 
@@ -206,27 +201,21 @@ See LICENSE.md file for more information.
 <!--- Contact Section --->
 
 ## Contact
-Provide links to your socials and repo
-Name
-* link to socials
-* link to email etc
-* link to project repo
+Use this section to provide links to socials and repo.
+* Twitter
+* GitHub repo
+* Email
 
 
 <!--- Acknowledgements Section --->
 
 ## Acknowledgements
-This section is to provide credit to the resources or people that helped in the development of this project.
-
+Use this section to give credit to the resources or people that helped in the development of this project.
+Mention what was influenced, inspired, sourced:
 List the people who've inspired or influenced this project
-* links to their socials or repos
-
-List the resources that provided information or inspiration
-* links to the pages
-
-Mention what you changed/added/improved
-* changed xyz from [link here]
-* improved ui of [link here]
+* Inspiration from A
+* Influence from B
+* Source from C
 
 <p align="right">(<a href="#top-of-page">Back to Top</a>)</p>
 
