@@ -8,12 +8,34 @@
 </div>
 
 
+<!--- About Section --->
+
+## About
+I created this project in an effort to create a reusable general template that can be used for a variety of projects. The purpose was to spend less time creating thorough and detailed READMEs and more time writing actual code. I built this with a mix of HTML and Markdown because this project also served as a way for me to familiarize myself with the Markdown syntax. I drew inspiration for the formatting and layout from researching and reading good READMEs.
+
+### Features
+* Collapsable and customizable table of contents with page navigation links
+* A wide range of sections that can be tailored and adjusted to fit any project
+* An extensive list of resources under [Acknowledgements](#acknowledgements) that can be referenced to further improve upon READMEs.
+
+### Built With
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "Markdown")
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
+
+
+<!--- License Section --->
+
+## License
+This project is distributed under the MIT License.
+See [LICENSE](LICENSE) file for more information. 
+
+
 <!--- Acknowledgements Section --->
 
 ## Acknowledgements
 Thanks to these resources for markdown syntax guide:
--	https://www.markdownguide.org/basic-syntax/
--	https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://www.markdownguide.org/basic-syntax/
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Thanks to these repos for formatting inspiration:
 -	https://github.com/cfpb/open-source-project-template/blob/main/README.md#installation
@@ -29,6 +51,7 @@ Thanks to these repos for formatting inspiration:
 -	https://github.com/Lissy93/cyber-defence-presentation
 
 Thank to these resources for icons and badges inspiration:
+- https://github.com/alexandresanlim/Badges4-README.md-Profile
 -	https://efficientuser.com/2019/09/12/add-some-cool-badges-in-your-github-repo/
 -	https://naereen.github.io/badges/
 -	https://github.com/martinpeck/oss-project-status
@@ -37,9 +60,7 @@ Thank to these resources for icons and badges inspiration:
     -	https://github.com/jantman/repostatus.org
 
 Thanks to these resources for README inspiration:
--	https://stackedit.io/
 -	https://www.readme-templates.com
--	https://readme.so/
 -	https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 -	https://victorbruce82.medium.com/writing-an-awesome-readme-for-your-side-projects-fabd20f96db0
 -	https://gist.github.com/martensonbj/6bf2ec2ed55f5be723415ea73c4557c4
@@ -48,6 +69,9 @@ Thanks to these resources for README inspiration:
 -	https://shannoncrabill.com/blog/improve-your-project-readme/
 
 Others:
+- https://dillinger.io/
+- https://readme.so/
+- https://stackedit.io/
 - https://choosealicense.com/licenses/mit/
 
 <p align="right">(<a href="#top-of-page">Back to Top</a>)</p>
