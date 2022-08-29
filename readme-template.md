@@ -68,9 +68,11 @@ Use this section to list the key functionalities of the project:
 * Feature C
 
 ### Built With
-Use this site to generate icons: [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-Use this site to generate badges: [https://shields.io/](https://shields.io/)
-Use this repo for pre-made badges: [https://github.com/alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+>Use this site to generate icons: [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+>
+>Use this site to generate badges: [https://shields.io/](https://shields.io/)
+>
+>Use this repo for pre-made badges: [https://github.com/alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 Use this section to list what was used to build this project:
 - Build tools

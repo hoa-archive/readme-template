@@ -42,7 +42,6 @@ Thanks to these repos for formatting inspiration:
 -	https://github.com/alecortega/portfolio-template
 -	https://github.com/othneildrew/Best-README-Template
 -	https://github.com/hackergrrl/art-of-readme
--	https://github.com/matiassingers/awesome-readme
 -	https://github.com/ai/size-limit#readme
 -	https://github.com/amitmerchant1990/electron-markdownify#readme
 -	https://github.com/aregtech/areg-sdk#readme
@@ -72,6 +71,7 @@ Others:
 - https://dillinger.io/
 - https://readme.so/
 - https://stackedit.io/
+-	https://github.com/matiassingers/awesome-readme
 - https://choosealicense.com/licenses/mit/
 
 <p align="right">(<a href="#top-of-page">Back to Top</a>)</p>
