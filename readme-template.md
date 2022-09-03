@@ -1,10 +1,9 @@
+<a name="top-of-page"></a>
 <!--- Title Section --->
 
-<a name="top-of-page"></a>
-
 <div align="center">
-	<h2>Time/Name of Project</h2>
-	<p>A short description of what the project is and what it aims to do.</p>
+	<h1>Time/Name of Project</h1>
+	<p>A short description of what the project is and what it aims to do or the purpose of its creation.</p>
 	<a href="/">Link to the hosted Project</a>
 </div>
 
@@ -192,6 +191,11 @@ Please use the issue tracker to report bugs or file feature requests.
 
 ## Reflection
 Use this section to discuss any unexpected obstacles encountered and how they were resolved. Mention challenges that were overcome and the lessons learned from them.
+
+Things I learned:
+* Learned this
+* Learned that
+
 
 <!--- License Section --->
 
