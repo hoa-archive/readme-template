@@ -38,6 +38,9 @@ Thanks to these resources for markdown syntax guide:
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Thanks to these repos for formatting inspiration:
+- https://github.com/TerrenceLJones/helpscout-project
+- https://github.com/TerrenceLJones/not-bored-tonight
+- https://github.com/hellomayuko/Pomodoro-Countdown
 -	https://github.com/cfpb/open-source-project-template/blob/main/README.md#installation
 -	https://github.com/alecortega/portfolio-template
 -	https://github.com/othneildrew/Best-README-Template
