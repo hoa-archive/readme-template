@@ -33,11 +33,18 @@ See [LICENSE](LICENSE) file for more information.
 <!--- Acknowledgements Section --->
 
 ## Acknowledgements
-Thanks to these resources for markdown syntax guide:
+<details>
+	<summary>Thanks to these resources for markdown syntax guide:</summary>
+
+- https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78
 - https://www.markdownguide.org/basic-syntax/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+</details>
+<br />
 
-Thanks to these repos for formatting inspiration:
+<details>
+	<summary>Thanks to these repos for formatting inspiration:</summary>
+
 - https://github.com/TerrenceLJones/helpscout-project
 - https://github.com/TerrenceLJones/not-bored-tonight
 - https://github.com/hellomayuko/Pomodoro-Countdown
@@ -51,8 +58,12 @@ Thanks to these repos for formatting inspiration:
 -	https://github.com/chroline/well_app#readme
 -	https://github.com/iharsh234/WebApp#readme
 -	https://github.com/Lissy93/cyber-defence-presentation
+</details>
+<br />
 
-Thank to these resources for icons and badges inspiration:
+<details>
+	<summary>Thank to these resources for icons and badges inspiration:</summary>
+
 - https://github.com/alexandresanlim/Badges4-README.md-Profile
 -	https://efficientuser.com/2019/09/12/add-some-cool-badges-in-your-github-repo/
 -	https://naereen.github.io/badges/
@@ -60,8 +71,12 @@ Thank to these resources for icons and badges inspiration:
 -	https://rahuldkjain.github.io/gh-profile-readme-generator/
 -	https://www.repostatus.org/#inactive
     -	https://github.com/jantman/repostatus.org
+</details>
+<br />
 
-Thanks to these resources for README inspiration:
+<details>
+	<summary>Thanks to these resources for README inspiration:</summary>
+
 -	https://www.readme-templates.com
 -	https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 -	https://victorbruce82.medium.com/writing-an-awesome-readme-for-your-side-projects-fabd20f96db0
@@ -69,12 +84,18 @@ Thanks to these resources for README inspiration:
 -	https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
 -	https://blog.masaischool.com/how-to-create-an-effective-github-project-readme-2/
 -	https://shannoncrabill.com/blog/improve-your-project-readme/
+</details>
+<br />
 
-Others:
+<details>
+	<summary>Others:</summary>
+
 - https://dillinger.io/
 - https://readme.so/
 - https://stackedit.io/
 -	https://github.com/matiassingers/awesome-readme
 - https://choosealicense.com/licenses/mit/
+</details>
+<br />
 
 <p align="right">(<a href="#top-of-page">Back to Top</a>)</p>
