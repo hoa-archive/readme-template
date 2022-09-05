@@ -3,7 +3,7 @@
 <a name="top-of-page"></a>
 <br />
 <div align="center">
-	<h2>My README Template</h2>
+	<h1>My README Template</h1>
 	<p>A personal template to reduce the amount of times I have to create a README from scratch.</p>
 </div>
 
