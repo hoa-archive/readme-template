@@ -4,7 +4,7 @@
 <div align="center">
 	<h1>Time/Name of Project</h1>
 	<p>A short description of what the project is and what it aims to do or the purpose of its creation.</p>
-	<a href="/">Link to the hosted Project</a>
+	<a href="/">Live App Link</a> &#x2022 <a href="/">GitHub Repo Link</a>
 </div>
 
 
